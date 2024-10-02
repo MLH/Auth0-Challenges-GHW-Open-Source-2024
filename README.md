@@ -17,7 +17,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 ### Create an Auth0 Account
 
 #### Objectives: 
-* Navigate to [auth0.com](https://mlh.link/ghwos24-auth0) and create your own account! 
+* Navigate to [auth0.com](https://mlh.link/ghwos24-auth0-signup) and create your own account! 
 * Share a screenshot of your deployed application on our [submission form](https://mlh.link/ghwform)!
 
 ## Challenge 2 
