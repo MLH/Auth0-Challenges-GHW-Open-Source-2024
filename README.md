@@ -51,7 +51,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 * [Check out Auth0's step by step walk through](https://mlh.link/ghwos24-auth0-universal)
 
 ## Challenge 5
-### Tweet or post on Linkedin with a screenshot of your customized Login box
+### Star your favorite Auth0 Open Source Project
 #### Objectives: 
 * Check out [Auth0 Open Source Projects](https://mlh.link/ghwos-auth0-opensource) and star your favorite! 
 * Share a screenshot to in our [submission form](https://mlh.link/ghwform)!
