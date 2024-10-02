@@ -15,31 +15,24 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 
 ## Challenge 1
 ### Create an Auth0 Account
-
 #### Objectives: 
 * Navigate to [auth0.com](https://mlh.link/ghwos24-auth0-signup) and create your own account! 
 * Share a screenshot of your deployed application on our [submission form](https://mlh.link/ghwform)!
 
 ## Challenge 2 
-### Implement Login and Logout with your Auth0 SDK of choice
+### Star your favorite Auth0 Open Source Project
+#### Objectives: 
+* Check out [Auth0 Open Source Projects](https://mlh.link/ghwos-auth0-opensource) and star your favorite! 
+* Share a screenshot to in our [submission form](https://mlh.link/ghwform)!
 
+## Challenge 3 
+### Implement Login and Logout with your Auth0 SDK of choice
 #### Objectives: 
 * Choose one of our Quick Start guides for your language or framework of choice and follow the instructions for creating user-facing login and logout for your application.
 * Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
 * [Auth0 Quick Start guide documentation](https://mlh.link/ghwos24-auth0-getstarted)
-
-## Challenge 3 
-### Set up social login through Google
-#### Objectives: 
-* Follow this Google Social Connect guide which will allow you to implement social login with Google!
-* This means users will be able to log in to your application using Google
-* Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
-
-
-#### Documentation:
-* [Check out Auth0's step by step guide to get started](https://mlh.link/ghwos24-auth0-googleconnect).
 
 ## Challenge 4 
 ### Customize your login box
@@ -51,10 +44,11 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 * [Check out Auth0's step by step walk through](https://mlh.link/ghwos24-auth0-universal)
 
 ## Challenge 5
-### Star your favorite Auth0 Open Source Project
+### Tweet or post on Linkedin with a screenshot of your customized Login box
 #### Objectives: 
-* Check out [Auth0 Open Source Projects](https://mlh.link/ghwos-auth0-opensource) and star your favorite! 
-* Share a screenshot to in our [submission form](https://mlh.link/ghwform)!
+* Take a screenshot o fyour customized Login and tweet or post it on LinkedIn
+* [Tag @auth0 and use the hashtag: #Auth0MLH-GHW](https://mlh.link/ghwcloud24-auth0-twitter)
+* Share the link to your post in our [submission form](https://mlh.link/ghwform)!
 
 # Resources
 * [Auth0 Account Signup](https://mlh.link/ghwos24-auth0-signup)
