@@ -22,7 +22,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 ## Challenge 2 
 ### Star your favorite Auth0 Open Source Project
 #### Objectives: 
-* Check out [Auth0 Open Source Projects](https://mlh.link/ghwos-auth0-opensource) and star your favorite! 
+* Check out [Auth0 Open Source Projects](https://mlh.link/ghwos24-auth0-opensource) and star your favorite! 
 * Share a screenshot to in our [submission form](https://mlh.link/ghwform)!
 
 ## Challenge 3 
